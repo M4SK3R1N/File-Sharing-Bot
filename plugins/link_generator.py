@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)M4SK3R1N
 
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
