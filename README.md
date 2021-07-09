@@ -36,15 +36,15 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 - Add the bot to Database Channel with all permission
 - Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
 
-##
-### Installation
-#### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+#
+## <h1>Installation</h1>
+### <p align="center">💻 Deploy on Heroku 💻</p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/M4SK3R1N/File-Sharing-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
-**Check This Tutorial Video**<br>
-**Thanks to [LITTLE PSYCHO](https://t.me/M4SK3R)**
+**<h4>Thanks to [‎‌‌ʟɪᴛᴛʟᴇ ‎ᴘꜱʏᴄʜᴏ‌‌‎](https://t.me/M4SK3R)</h4>**
 
-#### Deploy in your VPS
+
+### <p align="center">📠 Deploy on VPS 📠</p>
 ````bash
 git clone https://github.com/M4SK3R1N/File-Sharing-Bot
 cd File-Sharing-Bot
@@ -72,12 +72,12 @@ python3 main.py
 * `OWNER_ID` Must enter Your Telegram Id
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/shahsad-klr/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/M4SK3R1N/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/shahsad-klr/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/M4SK3R1N/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 
 ### Fillings
